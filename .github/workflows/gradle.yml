@@ -4,6 +4,8 @@ on:
     paths-ignore:
       - 'README.md'
       - 'LICENSE'
+    tags-ignore:
+      - '*'
 
 jobs:
   build:
