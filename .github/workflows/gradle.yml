@@ -5,7 +5,7 @@ on:
       - 'README.md'
       - 'LICENSE'
     tags-ignore:
-      - '*'
+      - '*.*.*'
 
 jobs:
   build:
